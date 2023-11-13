@@ -4,3 +4,7 @@ content
 content
 content
 content
+<<<<<<< HEAD
+=======
+content
+>>>>>>> branca1
